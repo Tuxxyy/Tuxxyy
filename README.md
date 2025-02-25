@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Front End Development Challenges
+
+- 🌱 I’m currently learning the types of projects that will get me hired
+
+- 📫 How to reach me: tuxxyy@yahoo.com
 <!--
 **Tuxxyy/Tuxxyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
